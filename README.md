@@ -1,2 +1,3 @@
-# codesandbox-dnd-kit-sortabl
-Created with CodeSandbox
+# @dnd-kit/sortable
+
+コンポーネントの並び替え
